@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/numman-ali/n-skills#readme",
   "devDependencies": {
-    "yaml": "^2.9.0"
+    "yaml": "^2.9.1"
   }
 }
